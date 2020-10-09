@@ -1,2 +1,1 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+[![Run on Repl.it](https://repl.it/badge/github/cyweb/hammer)](https://repl.it/github/cyweb/hammer)
